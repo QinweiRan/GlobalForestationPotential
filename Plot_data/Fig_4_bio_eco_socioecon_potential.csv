@@ -1,0 +1,11 @@
+stage,stage_label,category,order_in_plot,area_mha,error,carbon_PgC,carbon_error
+baseline,Biophysical baseline,baseline,1,486.809,144.7444,26.8961145,12.3927
+eco_albedo,Albedo-climate effect,pixel_sequential,2,383.6973,128.6214,23.2443015,12.0134
+eco_water,Downstream water,pixel_sequential,3,194.2982,79.528,12.7969485,9.1793
+eco_biodiv,Biodiversity protection,pixel_sequential,4,108.7133,38.0317,5.9861155,2.6869
+eco_pivot,Eco-constrained potential,pivot,5,108.7133,38.0317,5.9861155,2.6869
+nat_s1,I: Livelihood conflict,national_scenario,6,82.6611,23.0789,4.538822,1.7112
+nat_s1,II: Individual rights,national_scenario,7,51.7183,17.2437,3.4124195,1.5644
+nat_s2,III: Land tenure,national_scenario,8,62.4245,22.1071,3.6745875,1.4337
+nat_s3,IV: National commitments,national_scenario,9,66.8962,20.6434,4.0290235,1.861
+nat_combined,Combined constraints,national_combined,10,28.6977,4.5892,1.9650745,0.6653
