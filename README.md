@@ -1,3 +1,3 @@
 Against the backdrop of intensified climate change, forestation is increasingly recognized as a key nature-based climate solution. Here, we reassess global forestation potential by jointly modelling canopy height and cover, the two structural criteria embedded in the FAO forest definition, and generate a high-resolution, spatially explicit global map of forestation potential. We further integrate ecological safeguards and socioeconomic feasibility scenarios to estimate areas more realistically available for forestation implementation. The results of this study provide new insights into the spatial extent and constraints of forestation potential for climate mitigation.
 
-This repository contains the code and data used to generate all figures for the main analysis.
+This repository contains the code and data used to generate all figures and tables for the main analysis.
